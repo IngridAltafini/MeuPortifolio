@@ -12,8 +12,8 @@ const initialColors = {
 };
 
 const darkMode = {
-  bg: '#333333',
-  bgPanel: '#434343',
+  bg: '#9b3335',
+  bgPanel: '#803223',
   colorHeadings: '#fafafa',
   colorText: '#fafafa',
 };
